@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 public class AAADriver {
 	
-	public final static double VERSION = 1.12;
+	public final static double VERSION = 1.13;
 	public static Writer writer = (new AAADriver()).new Writer();
 	
 	public static void main(String[] args) throws ParseException, IOException {
